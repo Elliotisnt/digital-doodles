@@ -1,5 +1,5 @@
 # digital-doodles
-A collection of little drawings I've made. Below are a sample of my favorites!
+A collection of little drawings and designs I've made. Below are a sample of my favorites!
 
 <p align="left">
   <img src="Drawings/Dictionary%20Logo%20Final.png" height="200" style="margin: 5px;">
